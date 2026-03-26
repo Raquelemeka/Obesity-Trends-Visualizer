@@ -1,0 +1,14 @@
+{
+  "name": "73ce2256ec590057",
+  "main": "73ce2256ec590057@590.js",
+  "version": "590.0.0",
+  "homepage": "https://observablehq.com/d/73ce2256ec590057",
+  "author": {
+    "name": "Carleton CS 314 W25",
+    "url": "https://observablehq.com/@carleton-cs-314-w25"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
